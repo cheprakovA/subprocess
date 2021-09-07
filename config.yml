@@ -1,0 +1,8 @@
+qmgrs:
+    - queue_manager: QM1
+      channel: DEV.APP.SVRCONN 
+      host: localhost
+      port: 1414
+      user: app 
+      password: passw0rd
+      queue_name: DEV.QUEUE.1
